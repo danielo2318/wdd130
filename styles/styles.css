@@ -39,7 +39,7 @@ aside {
     width: 15rem;
     margin: rem;
     border: 1px solid steelblue;
-    padding: var(--padding);
+    padding: var(--);
     background-color: rgb(244, 245, 248);
     color: rgb(1, 38, 68);
     text-align: center;
