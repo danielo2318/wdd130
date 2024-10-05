@@ -1,0 +1,21 @@
+:root{
+    --primary-color: #6699CC; 
+    --secondary-color: #FFF275;
+    --accent1-color: #FF8C42;
+    --accent2-color: #FF3C38;
+}
+.hero img{
+    display:block;
+    width: 100%;
+    height: auto;
+}
+h1{
+    position: absolute;
+}
+article{
+    position: absolute;
+    
+}
+.callout img {
+    float: right;
+}
