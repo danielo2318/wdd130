@@ -107,13 +107,5 @@ footer{
     padding: 10px;
 }
 .sociallinks{
-    display:flex;
     gap:15px;
-}
-.sociallinks a{
-    text-decoration: none;
-}
-.sociallinks{
-    width:30px;
-    height: 30px;
 }
