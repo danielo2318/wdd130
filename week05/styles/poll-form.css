@@ -77,12 +77,12 @@ footer{
 }
 .for-item {
     display:grid;
-    align-items: center;
+    align-items:center;
 }
 .column1{
     grid-template-columns: 3fr 1fr;
     margin:o.5rem 0
 }
 .column2{
-    grid-template-colums: 1fr 2fr;
+    grid-template-columns: 1fr 2fr;
 }
