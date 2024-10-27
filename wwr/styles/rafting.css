@@ -245,18 +245,17 @@ footer {
     max-height: 200px;
     display: block;
     margin: 0 auto;
-    
 }
 .hero2 article {
-    position: absolute; /* Posiciona el artículo sobre la imagen */
-    top: 50%; /* Ajusta la posición vertical (puedes modificar este valor según necesites) */
-    left: 50%; /* Centra el artículo horizontalmente */
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
     transform: translate(-50%, -50%); /* Centra exactamente el artículo en la imagen */
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    width: 40%; /* Ajusta el ancho del artículo */
-    background-color: rgba(255, 255, 255, 0.884); /* Fondo semi-transparente */
+    width: 40%; 
+    background-color: rgba(255, 255, 255, 0.884); 
     padding: 16px;
     border-radius: 0.5rem;
     text-align: center;
